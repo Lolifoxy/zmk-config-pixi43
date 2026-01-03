@@ -37,10 +37,10 @@
 
         NUMandSYMBOL {
             bindings = <
-&kp DOLLAR       &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp PERIOD                                               &kp EXCLAMATION        &kp AMPERSAND   &kp PIPE         &kp LESS_THAN     &kp GREATER_THAN
-&kp HASH         &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp CARET    &kp GRAVE             &kp EQUAL             &kp PLUS               &kp MINUS       &kp ASTERISK     &kp SLASH         &kp PERCENT
-&kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp AT_SIGN  &kp SINGLE_QUOTE      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET
-&trans           &trans           &trans           &trans           &trans       &trans                &kp UNDERSCORE        &kp SEMICOLON                                                             &kp BACKSLASH
+&kp DOLLAR    &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp PERIOD                                               &kp EXCLAMATION        &kp AMPERSAND   &kp PIPE         &kp LESS_THAN     &kp GREATER_THAN
+&kp HASH      &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp CARET    &kp GRAVE             &kp EQUAL             &kp PLUS               &kp MINUS       &kp ASTERISK     &kp SLASH         &kp PERCENT
+&kp NUMBER_0  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp AT_SIGN  &kp SINGLE_QUOTE      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET
+&trans        &trans        &trans        &trans        &trans       &trans                &kp UNDERSCORE        &kp SEMICOLON                                                             &kp BACKSLASH
             >;
         };
 
