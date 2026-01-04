@@ -38,28 +38,28 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: INT HENKAN, h: FUNCandARROW}
-  - {t: INT MUHENKAN, h: NUMandSYMBOL}
+  - {t: F14, h: FUNCandARROW}
+  - {t: F13, h: NUMandSYMBOL}
   - LEFT SHIFT
   - SPACE
   - TAB
   - ESCAPE
   NUMandSYMBOL:
   - $
-  - KP 7
-  - KP 8
-  - KP 9
-  - {t: ▽, type: trans}
+  - '7'
+  - '8'
+  - '9'
+  - .
   - '!'
   - '&'
   - '|'
   - <
   - '>'
   - '#'
-  - KP 4
-  - KP 5
-  - KP 6
-  - LCTRL
+  - '4'
+  - '5'
+  - '6'
+  - ^
   - '`'
   - '='
   - +
@@ -67,10 +67,10 @@ layers:
   - '*'
   - /
   - '%'
-  - KP 0
-  - KP 1
-  - KP 2
-  - KP 3
+  - '0'
+  - '1'
+  - '2'
+  - '3'
   - '@'
   - ''''
   - (
